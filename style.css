@@ -11,5 +11,12 @@
 .header {
     width: 100vw;
     height: 100vh;
-    background-color: orange;
+    max-width: 100%;
+    position: relative;
+}
+
+.header__bg {
+    width: 100vw;
+    height: 100vh;
+    max-width: 100%;
 }
